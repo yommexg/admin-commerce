@@ -39,5 +39,3 @@ export const SizeClient: React.FC<SizeClientProps> = ({ data }) => {
     </>
   );
 };
-
-export default SizeClient;

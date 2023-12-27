@@ -41,5 +41,3 @@ export const CategoryClient: React.FC<CategoryClientProps> = ({ data }) => {
     </>
   );
 };
-
-export default CategoryClient;

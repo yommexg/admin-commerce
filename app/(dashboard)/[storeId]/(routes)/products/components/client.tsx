@@ -39,5 +39,3 @@ export const ProductClient: React.FC<ProductClientProps> = ({ data }) => {
     </>
   );
 };
-
-export default ProductClient;

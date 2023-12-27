@@ -39,5 +39,3 @@ export const ColorClient: React.FC<ColorClientProps> = ({ data }) => {
     </>
   );
 };
-
-export default ColorClient;

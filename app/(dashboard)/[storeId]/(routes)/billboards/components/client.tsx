@@ -41,5 +41,3 @@ export const BillboardClient: React.FC<BillboardClientProps> = ({ data }) => {
     </>
   );
 };
-
-export default BillboardClient;
