@@ -214,7 +214,6 @@ export default function ProductForm({
                       disabled={loading}
                       placeholder="9.99"
                       type="number"
-                      min="0"
                       {...field}
                     />
                   </FormControl>
