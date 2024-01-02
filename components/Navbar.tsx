@@ -25,7 +25,7 @@ const Navbar = async () => {
         <StoreSwitcher items={store} />
         <MainNav className="mx-6" />
         <div className="ml-auto flex items-center space-x-4">
-          <ThemeToggle />
+{/*           <ThemeToggle /> */}
           <UserButton afterSignOutUrl="/" />
         </div>
       </div>
